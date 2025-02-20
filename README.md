@@ -1,5 +1,5 @@
 # About
-This project was developed for CS5410 Game Development while at my final semester at USU. It uses JWJGL and OpenGL for the graphics library as well as a graphics frontend designed my my instructure Dr. Dean Mathias. 
+This project was developed for CS5410 Game Development while at my final semester at USU. It uses LWJGL and OpenGL for the graphics libraries, as well as a graphics frontend designed my my instructure Dr. Dean Mathias. 
 The code written by him is found in src/usu.edu. He also wrote the KeyboardInput class and the StarterProject class. All other code was written by me (which is the vast majority of the game anyways).
 
 This project had the following requirements:
